@@ -8,8 +8,8 @@ gameState = "begin"
 
 function preload(){
     football_img = loadImage("football.png")
-    touchdown_img = loadImage("touchdown.png")
-    fieldgoal_img = loadImage("fieldgoal.png")
+    touchdown_img = loadImage("touchdown.PNG")
+    fieldgoal_img = loadImage("fieldgoal.PNG")
     qb_img = loadImage("quarterback.jpg")
     defender_img = loadImage("defender.jfif")
     field_img = loadImage("football field.jpg")
